@@ -18,7 +18,7 @@ body {
 }
 
 header.masthead {
-  background: url('../img/kitty1.jpg') no-repeat center center scroll;
+  background: url('../img/start the jump.png') no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -41,7 +41,13 @@ header.masthead>.overlay {
 }
 
 .navbar {
+<<<<<<< HEAD
   background-color: #5271FF;
+=======
+
+  background-color: #5271FF;
+
+>>>>>>> d4e11c9f790208ad9b7f579727ae3e316d7f03a2
 }
 .navbar .navbar-brand {
   color: #ffffff;
